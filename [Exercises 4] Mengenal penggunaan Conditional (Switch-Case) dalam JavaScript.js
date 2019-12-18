@@ -1,6 +1,6 @@
-var Tanggal = 9;
-var Bulan= 12;
-var Tahun = 199;
+var Tanggal = 119;
+var Bulan= 13;
+var Tahun = 1999;
 
 
 switch(Bulan) {

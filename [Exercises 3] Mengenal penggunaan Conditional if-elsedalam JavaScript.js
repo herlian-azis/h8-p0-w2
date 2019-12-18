@@ -1,5 +1,5 @@
 var nama = "AZiz-kun";
-var peran = "";
+var peran = "penyihir"; // Peran harus di awali dengan huruf besar
 
     if (nama === "") {
             console.log(`"Nama harus diisi!"`)
